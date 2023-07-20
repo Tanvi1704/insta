@@ -1,0 +1,36 @@
+.signIn{
+    background-image: url("https://t3.ftcdn.net/jpg/05/17/38/58/360_F_517385838_xHB4k2STUNhPtX7Ynjjeemw7VW2OQXPb.jpg");
+    background-size: cover;
+    flex: 1;
+    opacity: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginForm{   
+    background-color: #ffffff95;
+    padding: 30px;
+    border: 1px solid rgb(129, 121, 121);
+    border-radius: 1px;
+}
+
+.loginForm2{
+    background-color: #ffffff95;
+    padding: 20px;
+    margin-top: 5px;
+    border: 1px solid rgb(129, 121, 121);
+    border-radius: 1px;
+}
+
+#login-btn{
+    background-color: #1773EA;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+    width: 100%;
+    cursor: pointer;
+    margin-top: 8px;
+}
