@@ -65,7 +65,7 @@ const passRegex=/^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#\$%\^&\*])(?=.{8,})/
                 Sign up to see photos and videos <br/> from your friends.
             </p>
             <div>
-                <input type="email" name="email" id="email" value={email} placeholder="Mobile Number or Email " onChange={(e)=>{setEmail(e.target.value)}} />
+                <input type="email" name="email" id="email" value={email} placeholder="Email " onChange={(e)=>{setEmail(e.target.value)}} />
             </div>
             <div>
                 <input type="text" name="name" id="name" placeholder="Full Name"  value={name} onChange={(e)=>{setName(e.target.value)}} />
