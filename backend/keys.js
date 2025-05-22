@@ -6,7 +6,8 @@
 
 module.exports = {
     // mongoUrl : "mongodb+srv://instagram:instagram@cluster0.nntcshj.mongodb.net/?retryWrites=true&w=majority",
-    mongoUrl : "mongodb+srv://agrawal:tanvi@create.kcumtep.mongodb.net/?retryWrites=true&w=majority&appName=create",
+    // mongoUrl : "mongodb+srv://agrawal:tanvi@create.kcumtep.mongodb.net/?retryWrites=true&w=majority&appName=create",
+    mongoUrl : "mongodb+srv://instagram:instagram@cluster0.nntcshj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" ,
   
     Jwt_secret : "daslkfocvneofu"
 
